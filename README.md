@@ -1,6 +1,6 @@
 # Hi there, I'm Nidhi 👋
 
-🎓 Electronics & Telecommunication Engineering Student
+🎓 Dayananda sagar college of engineering
 
 I'm passionate about building full-stack web applications and AI-powered solutions. I enjoy creating projects that combine modern web technologies with large language models and speech AI.
 
