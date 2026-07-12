@@ -6,7 +6,7 @@ I'm passionate about building full-stack web applications and AI-powered solutio
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, C++, HTML, CSS
+**Languages:** JavaScript, C++, HTML, CSS, Python
 
 **Frontend:** React.js
 
